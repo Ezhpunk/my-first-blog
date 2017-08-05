@@ -25,7 +25,7 @@ SECRET_KEY = 'c+r%1#pjgf^hax5qrk#6q^k+qn01%l&5f(c_6)g$8x!kr2i=ts'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ezhpunk.pythonanywhere.com','localhost']
+ALLOWED_HOSTS = ['ezhpunk.pythonanywhere.com','localhost','127.0.0.1',]
 
 
 # Application definition
